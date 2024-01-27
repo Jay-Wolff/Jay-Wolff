@@ -1,11 +1,10 @@
-### Hi there I'm Jay 👋 Most of the time I an : <img src = "https://github.com/Jay-Wolff/Jay-Wolff/blob/main/Assets/typingcat.gif" height="50"/>
+### Hi there I'm Jay 👋 Most of the time I am : <img src = "https://github.com/Jay-Wolff/Jay-Wolff/blob/main/Assets/typingcat.gif" height="50"/>
 
 <img src = "https://github.com/Jay-Wolff/Jay-Wolff/blob/main/Assets/Jay%20(1)-2-2.png" height="300" align="left"/>
 
 ### Here is a little bit about me:
 I am an aspiring video game developer
-dmamdoi
-dad
+
 
 
 ### My Coding Skills:
