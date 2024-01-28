@@ -8,10 +8,10 @@ I am an aspiring video game developer
 
 
 ### My Coding Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,html,css,python,react,java,androidstudio,bash,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,cs,cpp,html,css,python,react,java,androidstudio,bash,)
 
 ### My Art Skills:
-[![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,pr,ae,blender)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,pr,ae,blender)
 
 ### When I am AFK you can find me:
 <a href= "https://www.linkedin.com/in/janissa-abreu-623a1023b/" /> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
