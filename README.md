@@ -15,7 +15,7 @@ I am an aspiring video game developer
 
 ### When I am AFK you can find me:
 <a href= "https://www.linkedin.com/in/janissa-abreu-623a1023b/" /> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-<a href = "https://www.twitch.tv/jay_wolff_" /> <img src = "https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /> 
+<a href = "https://www.twitch.tv/Professor_Jay_" /> <img src = "https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /> 
 <a href="https://steamcommunity.com/profiles/76561198967546376/" /> <img src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /> 
 <a href = "https://discord.gg/efdkqze" /> <img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /> 
 
