@@ -3,7 +3,11 @@
 <img src = "https://github.com/Jay-Wolff/Jay-Wolff/blob/main/Assets/Jay%20(1)-2-2.png" height="300" align="left"/>
 
 ### Here is a little bit about me:
-I am an aspiring video game developer
+I am currently pursuing a Master’s degree in Computer Science at Lehman College, following the completion of my Bachelor’s degree with a double major in Computer Science and Computer Graphics and Imaging. My professional experience includes roles as a Tableau Dashboard Developer and Adjunct Lecturer at Lehman College.
+
+Upon completing my Master's degree, I aim to transition into a career in Software Engineering or Data Analytics, with a particular interest in developing interactive experiences.
+
+My current research focuses on enhancing accessibility within virtual environments. I am developing a navigable realm designed specifically for individuals with visual impairments, utilizing 8D audio to create immersive auditory landscapes that aid in navigation and object identification.
 
 
 
