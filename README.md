@@ -17,15 +17,6 @@ My current research focuses on enhancing accessibility within virtual environmen
 ### My Art Skills:
 ![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,pr,ae,blender)
 
-
-
-##Test With Class 
-<a href = "www.linkedin.com/in/janissa-abreu" /> <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" />
-
-
-
-
-
 ### When I am AFK you can find me:
 <a href= "https://www.linkedin.com/in/janissa-abreu-623a1023b/" /> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 <a href = "https://www.twitch.tv/Professor_Jay_" /> <img src = "https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /> 
